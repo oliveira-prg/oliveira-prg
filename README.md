@@ -1,4 +1,4 @@
-# 💫 About Me:
+About Me:
 Hi there 👋<br><br>I’m currently working on some projects envolving front-end...<br>I’m currently learning some programmin languages to become more complete. The languages i know are : HTMl, Python and C.<br>I’m looking to collaborate on some projects envolving the part of front-end and sometimes, the part of back-end.<br>Instagram : @math.jpth<br>Twitter : oliveirx_mb
 
 
